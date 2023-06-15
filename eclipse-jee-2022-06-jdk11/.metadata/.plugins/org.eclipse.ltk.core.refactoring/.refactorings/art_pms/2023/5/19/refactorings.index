@@ -1,0 +1,65 @@
+1683511113111	Delete element
+1683511406402	Delete element
+1683511407577	Delete element
+1683511417122	Delete element
+1683511418146	Delete element
+1683511423842	Delete element
+1683511426378	Delete element
+1683532054521	Rename resource 'index.jsp'
+1683532083473	Rename resource 'dashboardView.jsp'
+1683532209528	Rename resource 'login.jsp'
+1683537740820	Rename resource 'portal'
+1683538157568	Rename package 'com.system.admin.portal.systemMng.web'
+1683538163453	Rename package 'com.system.admin.portal.systemMng.service'
+1683538168978	Rename package 'com.system.admin.portal.systemMng.dao'
+1683538213278	Copy package
+1683538224477	Delete element
+1683538232838	Rename type 'UserMngController'
+1683538250564	Copy package
+1683538254858	Delete element
+1683538262890	Rename type 'UserMngService'
+1683538317159	Copy package
+1683538321593	Delete element
+1683538327151	Rename type 'UserMngDao'
+1683538390219	Rename resource 'systemMng'
+1683538404431	Copy file
+1683538410700	Rename resource 'userMng_sql.xml'
+1683538809434	Copy file
+1683538814101	Rename resource 'userMng.jsp'
+1683621037835	Delete element
+1683621053617	Delete element
+1683621389817	Delete element
+1683624788511	Delete elements
+1683625733484	Delete element
+1683625790555	Rename resource 'loading.gif'
+1683625798230	Copy file
+1683625800182	Delete element
+1683625828626	Delete element
+1683681780823	Rename resource 'noticeForm.jsp'
+1683706505823	Rename type 'SetCacheControl'
+1683706747021	Delete element
+1683707093210	Copy file
+1683713490880	Delete element
+1683778360436	Copy files
+1683778368604	Rename resource 'workMng.jsp'
+1683778373865	Rename resource 'workSaveForm.jsp'
+1683778391339	Copy compilation unit
+1683778397968	Copy compilation unit
+1683778404637	Copy compilation unit
+1683778415442	Copy file
+1683778517969	Rename type 'exhibitionMngController'
+1683778522062	Rename type 'workMngController'
+1683778529415	Rename type 'exhibitionMngService'
+1683778533205	Rename type 'exhibitionMngDao'
+1683860752246	Delete element
+1683860765508	Delete element
+1683869270990	Copy file
+1683869573818	Copy file
+1683869576419	Delete element
+1683869584710	Rename resource 'workMng.jsp'
+1683871671928	Delete element
+1683871719218	Copy file
+1683871749574	Rename resource 'insertMenu.jsp'
+1683883018015	Delete element
+1683883022558	Copy file
+1683883026418	Delete element
