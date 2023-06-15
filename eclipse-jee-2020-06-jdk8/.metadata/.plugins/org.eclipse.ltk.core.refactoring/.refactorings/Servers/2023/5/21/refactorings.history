@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Servers/[8080] ngtos_dummyCreator-config&apos; to &apos;[7777] ngtos_dummyCreator-config&apos;" description="Rename resource &apos;[8080] ngtos_dummyCreator-config&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="[8080] ngtos_dummyCreator-config" name="[7777] ngtos_dummyCreator-config" stamp="1685063593399" updateReferences="true"/>
+</session>

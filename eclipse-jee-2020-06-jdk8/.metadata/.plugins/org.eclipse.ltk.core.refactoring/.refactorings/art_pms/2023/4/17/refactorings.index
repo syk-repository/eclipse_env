@@ -1,0 +1,92 @@
+1682411807001	Delete elements
+1682411812966	Delete elements
+1682411821060	Delete elements
+1682411966011	Rename resource 'admin'
+1682411971495	Rename resource 'adminFooter.jsp'
+1682411977080	Rename resource 'adminLeft.jsp'
+1682411981288	Rename resource 'adminTemplate.jsp'
+1682411985869	Rename resource 'adminHeader.jsp'
+1682412181338	Delete elements
+1682412184624	Delete element
+1682412198175	Delete element
+1682412423306	Delete elements
+1682412426552	Delete element
+1682413506666	Delete element
+1682413554932	Delete element
+1682413590327	Delete element
+1682413595480	Delete element
+1682413703239	Delete element
+1682414212087	Move file
+1682414257025	Rename resource 'dl_custom.css'
+1682414356642	Rename resource 'dl_common.css'
+1682414384636	Move file
+1682414459993	Rename resource 'common_ui.css'
+1682414463033	Move file
+1682414487114	Rename resource 'custom_ui.css'
+1682414489923	Move file
+1682414519102	Rename resource 'dl_global.css'
+1682414596935	Move file
+1682414604431	Rename resource 'dl_grid.css'
+1682414607314	Move file
+1682414621224	Rename resource 'dl_layout.css'
+1682414658361	Move file
+1682414670227	Rename resource 'dl_popup.css'
+1682414710162	Move file
+1682414846013	Move file
+1682414860975	Rename resource 'dl_table.css'
+1682414879102	Move file
+1682414951295	Rename resource 'dl_ui.css'
+1682414970533	Move file
+1682415173578	Copy folder
+1682415269648	Copy folder
+1682415877926	Copy file
+1682415886875	Rename resource 'clientHeader.jsp'
+1682416021813	Move file
+1682416090191	Rename resource 'main.jsp'
+1682416297007	Copy compilation unit
+1682416307083	Delete element
+1682416331544	Copy compilation unit
+1682416340343	Rename type 'SysHomeService'
+1682416400266	Delete element
+1682416409045	Copy compilation unit
+1682416419469	Delete element
+1682416432043	Rename type 'SysHomeDao'
+1682416542457	Copy file
+1682416544145	Delete element
+1682416551082	Rename resource 'sysHome_sql.xml'
+1682416581196	Copy package
+1682416584499	Copy compilation unit
+1682416591638	Rename type 'HomeController'
+1682416599995	Rename type 'AdminHomeController'
+1682416614775	Rename type 'HomeController'
+1682416620584	Rename type 'HomeController'
+1682416673118	Rename type 'HomeService'
+1682416701145	Rename type 'HomeDao'
+1682416802868	Delete element
+1682416830826	Copy package
+1682416838455	Rename type 'AdminHomeService'
+1682416887697	Copy package
+1682416896566	Rename type 'AdminHomeDao'
+1682416926825	Rename resource 'Home_sql.xml'
+1682416929264	Copy file
+1682416934289	Rename resource 'AdminHome_sql.xml'
+1682417044932	Rename resource 'all.jsp'
+1682473313645	Copy file
+1682473685429	Delete element
+1682474470775	Copy file
+1682474506532	Delete element
+1682474528381	Delete element
+1682474607141	Copy file
+1682484014630	Delete element
+1682484184504	Move folders
+1682484187416	Move files
+1682485731403	Delete element
+1682487583689	Delete elements
+1682487649943	Move file
+1682495244768	Copy file
+1682495246116	Delete element
+1682495870812	Rename resource 'main.jsp'
+1682495877062	Rename resource 'total;.jsp'
+1682495937619	Rename resource 'total.jsp'
+1682579015296	Copy file
+1682579025523	Rename resource 'totalView.jsp'

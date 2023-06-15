@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="SqlSessionFactoryBean"/>
+		<item key="casesensitive" value="true"/>
+		<item key="incremental" value="false"/>
+		<item key="wrap" value="true"/>
+		<item key="wholeword" value="false"/>
+		<list key="findhistory">
+			<item value="SqlSessionFactoryBean"/>
+			<item value="interval"/>
+			<item value="checkInterval"/>
+			<item value="resetInterval"/>
+			<item value="setCheckInterval"/>
+			<item value="isSingleton"/>
+			<item value="isModified"/>
+			<item value="refresh"/>
+			<item value="dataSource"/>
+			<item value="mybatis"/>
+			<item value="jdbc"/>
+			<item value="sqlSessionFactoryBeanName"/>
+			<item value="sqlSessionFactoryBeanName "/>
+			<item value="RequestContextListener"/>
+			<item value="XPathParser"/>
+		</list>
+		<list key="replacehistory">
+			<item value=""/>
+			<item value="CellType.STRING"/>
+			<item value="Row.MissingCellPolicy.RETURN_BLANK_AS_NULL"/>
+			<item value="HSSFColor.HSSFColorPredefined"/>
+			<item value="FillPatternType.SOLID_FOREGROUND"/>
+			<item value="VerticalAlignment.CENTER"/>
+			<item value="HorizontalAlignment.CENTER"/>
+			<item value="beans"/>
+			<item value="font_15"/>
+			<item value="resultMap"/>
+			<item value="put"/>
+			<item value="resultMapJson"/>
+			<item value="Map&lt;String, Object&gt;"/>
+			<item value="tdArray"/>
+			<item value="tableSelIdx"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_WIDTH" value="340"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|5|0|맑은 고딕"/>
+		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_X_ORIGIN" value="9"/>
+		<item key="DIALOG_Y_ORIGIN" value="197"/>
+	</section>
+</section>
